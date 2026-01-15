@@ -5,6 +5,9 @@
 This project is an **AI-powered medical assistant** developed as a **semester project for the course *Programming for Artificial Intelligence***.
 The system uses **machine learning models** to predict multiple cancer-related outcomes based on patient lifestyle, environmental, and genetic risk factors.
 
+<img width="948" height="682" alt="image" src="https://github.com/user-attachments/assets/2d800d03-db42-4eac-b076-8a60e353a73a" />
+
+
 ⚠️ **Disclaimer:**
 This project is intended **only for academic and research purposes**. It is **not a medical diagnostic tool** and should not be used for real clinical decisions.
 
