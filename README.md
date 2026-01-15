@@ -80,6 +80,11 @@ EDA was performed to understand data distribution and relationships:
 * Treatment cost and survival years show weak correlation with input features
 * Cancer severity varies across stages and cancer types
 
+<img width="767" height="526" alt="image" src="https://github.com/user-attachments/assets/020f9af7-6c14-4525-bcad-6db3923646aa" />
+<img width="766" height="157" alt="image" src="https://github.com/user-attachments/assets/92cdcc9e-d8be-48fb-99e4-ffae9b80560c" />
+<img width="654" height="513" alt="image" src="https://github.com/user-attachments/assets/c8360ed9-9bac-4945-a75b-22edb5d0ab06" />
+
+
 
 ## 🧠 Machine Learning Models
 
