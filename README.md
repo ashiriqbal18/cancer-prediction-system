@@ -151,7 +151,7 @@ An interactive **Streamlit web application** was developed to allow users to:
 
 ## 📂 Project Structure
 
-
+```
 ├── app.py
 ├── model_type_no_year.pkl
 ├── model_stage_no_year.pkl
@@ -161,7 +161,7 @@ An interactive **Streamlit web application** was developed to allow users to:
 ├── global_cancer_patients_2015_2024.csv
 ├── README.md
 
-
+```
 
 ## 🛠️ Technologies Used
 
